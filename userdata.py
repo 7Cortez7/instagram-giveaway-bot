@@ -1,0 +1,2 @@
+username = "YourInstagramUsername"
+password = "YourInstagramPassword"
