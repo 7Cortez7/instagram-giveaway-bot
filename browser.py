@@ -49,6 +49,7 @@ class Browser:
             if end == pageEnd:
                 break
 
+
     def Login(self):
         username = self.browser.find_element_by_name("username")
         password = self.browser.find_element_by_name("password")
